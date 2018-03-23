@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringRESTBook.iml" filepath="$PROJECT_DIR$/.idea/SpringRESTBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter3/starter/hello-rest/hello-rest.iml" filepath="$PROJECT_DIR$/Chapter3/starter/hello-rest/hello-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter4/starter/quick-poll/quick-poll.iml" filepath="$PROJECT_DIR$/Chapter4/starter/quick-poll/quick-poll.iml" />
+    </modules>
+  </component>
+</project>
